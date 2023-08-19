@@ -38,6 +38,6 @@ const Nav = () => {
       </nav>
     </header>
   );
-};
+}
 
 export default Nav;
